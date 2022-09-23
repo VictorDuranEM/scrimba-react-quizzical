@@ -173,7 +173,7 @@ body {
     border: .77px solid #4D5B9E;
     border-radius: 7.71px;
     padding: .1em 1em;
-    /* margin-right: 1em; */
+    cursor: pointer;
 }
 
 .correct-answer, .incorrect-answer {

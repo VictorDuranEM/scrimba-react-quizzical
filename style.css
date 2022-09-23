@@ -174,10 +174,12 @@ body {
     border-radius: 7.71px;
     padding: .1em 1em;
     cursor: pointer;
+    display: flex;
+    align-items: center;
 }
 
 .correct-answer, .incorrect-answer {
-    border: 'none';    
+    border: none;    
 }
 
 .correct-answer {
